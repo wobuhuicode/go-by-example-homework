@@ -1,3 +1,3 @@
-module github.com/wangkechun/go-by-example
+module homework
 
-go 1.18
+go 1.13
